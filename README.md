@@ -4,7 +4,7 @@
 Welcome! I am a data analyst based out of Germany.
 
 ####  :woman_technologist: This is me  #### 
-- Software Engineer turned Data Analyst
+- I am a Software Engineer turned Data Analyst
 - M.Sc Internet Technologies & Information Systems
 - SQL Enthusiast passionate about Data-Driven innovation
 #### :ledger: Project Portfolio ####
