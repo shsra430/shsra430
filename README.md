@@ -18,7 +18,7 @@ Welcome! I am a data analyst based out of Germany.
 #### :seedling: Now ####
 - Reviewing Business Key Performance Indicators & A/B Testing
 - Currently in the works: Maven Churn Analytics Project. Watch this space for more.
-- Course: Advanced DAX for Power BI
+- Ongoing Course: Advanced DAX for Power BI
 
 ##### Outside of Tech ####
 - :book: I enjoy reading Historical Fiction & Literary Fiction
