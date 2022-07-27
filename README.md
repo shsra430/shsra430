@@ -1,14 +1,14 @@
 ### Hi there 👋
 ---
 
-I am a data analyst based out of Germany.
+Welcome! I am a data analyst based out of Germany.
 
 ####  :woman_technologist: This is me  #### 
 - Software Engineer turned Data Analyst
 - M.Sc Internet Technologies & Information Systems
 - SQL Enthusiast passionate about Data-Driven innovation
 #### :ledger: Project Portfolio ####
-- Here is the workspace with my projects.
+- [Here](https://github.com/shsra430/shsra430/edit/main/portfolio.md#open_file_folder-project-portfolio) is the workspace with my projects.
 
 #### :rocket: Core Skills ####
 - Tech Stack: SQL, Python, R Programming
@@ -23,7 +23,6 @@ I am a data analyst based out of Germany.
 ##### Outside of Tech ####
 - :book: I enjoy reading Historical Fiction & Literary Fiction
 - :zap: Productivity Nerd
-
 ***
 
 
