@@ -15,14 +15,14 @@ Welcome! I am a data analyst based out of Germany.
 - BI Tools: Microsoft Power BI, Tableau, Microsoft Excel
 - Skillset: Data Wrangling, Exploratory Data Analysis, Data Visualization, Dashboard Design & Presentation, Data :arrow_right_hook: Business Insights
 
-#### :seedling: Now ####
+#### :seedling: Currently ####
 - Reviewing Business Key Performance Indicators & A/B Testing
-- Currently in the works: Maven Churn Analytics Project. Watch this space for more.
-- Ongoing Course: Advanced DAX for Power BI
+- In the works: Maven Churn Analytics Project. Watch this space for more.
+- Taking the Course: Advanced DAX for Power BI
 
 ##### Outside of Tech ####
 - :book: I enjoy reading Historical Fiction & Literary Fiction
-- :zap: Productivity Nerd
+- :zap: Curious about all thing Productivity
 ***
 
 
