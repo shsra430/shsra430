@@ -6,7 +6,7 @@ Welcome! I am a data analyst based out of Germany.
 ####  :woman_technologist: This is me  #### 
 - I am a Software Engineer turned Data Analyst
 - M.Sc Internet Technologies & Information Systems
-- SQL Enthusiast passionate about Data-Driven innovation
+- SQL Enthusiast passionate about Data-Driven Innovation
 #### :ledger: Project Portfolio ####
 - [Here](https://github.com/shsra430/shsra430/edit/main/portfolio.md#open_file_folder-project-portfolio) is the workspace with some of my completed as well as ongoing projects.
 
