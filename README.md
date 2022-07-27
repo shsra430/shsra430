@@ -1,16 +1,30 @@
 ### Hi there 👋
+---
 
-<!--
-**shsra430/shsra430** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a data analyst based out of Germany.
 
-Here are some ideas to get you started:
+####  :woman_technologist: This is me  #### 
+- Software Engineer turned Data Analyst
+- M.Sc Internet Technologies & Information Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### :ledger: Project Portfolio ####
+- Here is the workspace with my projects.
+
+#### :rocket: Core Skills ####
+- Tech Stack: SQL, Python, R Programming
+- BI Tools: Microsoft Power BI, Tableau, Microsoft Excel
+- Skillset: Data Wrangling, Exploratory Data Analysis, Data Visualization, Dashboard Design & Presentation, Data :arrow_right_hook: Business Insights
+
+#### :seedling: Now ####
+- Reviewing Business Key Performance Indicators & A/B Testing
+- Currently in the works: Maven Churn Analytics Project. Watch this space for more.
+- Course: Advanced DAX for Power BI
+
+##### Outside of Tech ####
+- :book: I enjoy reading Historical Fiction & Literary Fiction
+- :zap: Productivity Nerd
+
+***
+
+
+
