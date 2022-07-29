@@ -8,7 +8,7 @@ Welcome! I am a data analyst based out of Germany.
 - M.Sc Internet Technologies & Information Systems
 - SQL Enthusiast passionate about Data-Driven Innovation
 #### :ledger: Project Portfolio ####
-- [Here](https://github.com/shsra430/shsra430/edit/main/portfolio.md#open_file_folder-project-portfolio) is the workspace with some of my completed as well as ongoing projects.
+- [Here](https://github.com/shsra430/Projects/blob/main/workspace.md#open_file_folder-project-portfolio) is the workspace with some of my completed as well as ongoing projects.
 
 #### :rocket: Core Skills ####
 - Tech Stack: SQL, Python, R Programming
